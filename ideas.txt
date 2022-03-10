@@ -1,0 +1,17 @@
+
+To Do
+
+	Fix negative values for input
+
+
+Completed
+
+	Create a form
+
+	Add the label for the Total
+
+	Condense last part of buildForm() into lastRow() 
+
+	Adjust the total based on the change in the input - onchange
+
+	Display the total to the screen
